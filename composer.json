@@ -1,0 +1,14 @@
+{
+    "name": "support3w/mailing-service",
+    "autoload": {
+        "psr-4": {
+            "Support3w\\MailingService\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "~4.6",
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
