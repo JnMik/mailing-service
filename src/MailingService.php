@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-namespace Api\Base\Service;
+namespace Support3w\MailingService;
 
 use PHPMailer;
 use phpmailerException;
